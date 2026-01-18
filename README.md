@@ -1,11 +1,6 @@
 # Bank-of-Spain-Secure-api
 A secure FastAPI-based banking backend that handles user registration, prevents duplicate records, and stores passwords using industry-standard hashing.
 
-Samajh gaya 👍
-**Ek hi jagah, ek hi piece, final version.**
-Neeche **complete, clean, attractive README** de raha hoon — **single-file project ke hisaab se 100% aligned**.
-Seedha **copy–paste** karo. No edits needed.
-
 ---
 
 # 🏦 Bank of Spain – Secure Backend API
