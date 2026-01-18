@@ -46,7 +46,7 @@ This project is designed for **portfolio presentation** and to demonstrate real-
 ```
 bank-of-spain-secure-api/
 │
-├── main.py     
+├── bank_of_spain.py     
 
 ```
 
